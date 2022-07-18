@@ -51,7 +51,7 @@ const Projects = () => {
   return (
     <section>
       <div className="center">
-        <h1 className="page-header">My Portfolio</h1>
+        <h1 className="page-header">Projects</h1>
       </div>
       <div>
         <ul className="flex-row mobile-row">

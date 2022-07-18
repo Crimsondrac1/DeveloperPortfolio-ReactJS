@@ -3,6 +3,7 @@ import coverImage from "../../assets/img/doug.jpg";
 function About() {
   return (
     <section className="">
+      <h1 className="page-header">About me</h1>
       <img src={coverImage} className="headshot" alt="cover" />
       <div className="my-2">
         <p>
