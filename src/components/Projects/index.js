@@ -44,7 +44,7 @@ const Projects = () => {
 		technologies:
 		  "HTML, CSS, JavaScript, JQuery, Bulma, ExpressJS and React",
 		github: "https://github.com/Crimsondrac1/developerportfolio-reactjs",
-		deployed: "https://livechat-app-1.herokuapp.com/",
+		deployed: "https://crimsondrac1.github.io/developerportfolio-reactjs/",
 	  },
   ];
 
@@ -63,6 +63,9 @@ const Projects = () => {
           </li>
           <li className="padding">
             <Project projects={projects[2]}></Project>
+          </li>
+		  <li className="padding">
+            <Project projects={projects[3]}></Project>
           </li>
         </ul>
       </div>
