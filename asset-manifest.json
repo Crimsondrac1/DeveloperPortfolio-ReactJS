@@ -1,33 +1,36 @@
 {
   "files": {
     "main.css": "/developerportfolio-reactjs/static/css/main.26717292.chunk.css",
-    "main.js": "/developerportfolio-reactjs/static/js/main.0e8b5bbc.chunk.js",
-    "main.js.map": "/developerportfolio-reactjs/static/js/main.0e8b5bbc.chunk.js.map",
-    "runtime-main.js": "/developerportfolio-reactjs/static/js/runtime-main.cf69e022.js",
-    "runtime-main.js.map": "/developerportfolio-reactjs/static/js/runtime-main.cf69e022.js.map",
+    "main.js": "/developerportfolio-reactjs/static/js/main.0e235173.chunk.js",
+    "main.js.map": "/developerportfolio-reactjs/static/js/main.0e235173.chunk.js.map",
+    "runtime-main.js": "/developerportfolio-reactjs/static/js/runtime-main.2d7d93e8.js",
+    "runtime-main.js.map": "/developerportfolio-reactjs/static/js/runtime-main.2d7d93e8.js.map",
     "static/js/2.5447d667.chunk.js": "/developerportfolio-reactjs/static/js/2.5447d667.chunk.js",
     "static/js/2.5447d667.chunk.js.map": "/developerportfolio-reactjs/static/js/2.5447d667.chunk.js.map",
-    "static/js/3.816738b9.chunk.js": "/developerportfolio-reactjs/static/js/3.816738b9.chunk.js",
-    "static/js/3.816738b9.chunk.js.map": "/developerportfolio-reactjs/static/js/3.816738b9.chunk.js.map",
+    "static/js/3.192a97a2.chunk.js": "/developerportfolio-reactjs/static/js/3.192a97a2.chunk.js",
+    "static/js/3.192a97a2.chunk.js.map": "/developerportfolio-reactjs/static/js/3.192a97a2.chunk.js.map",
     "index.html": "/developerportfolio-reactjs/index.html",
-    "precache-manifest.5b761b5046d02c699a88dc3b9a66be36.js": "/developerportfolio-reactjs/precache-manifest.5b761b5046d02c699a88dc3b9a66be36.js",
+    "precache-manifest.424f7ee39090f9c17d623f87c89bc35a.js": "/developerportfolio-reactjs/precache-manifest.424f7ee39090f9c17d623f87c89bc35a.js",
     "service-worker.js": "/developerportfolio-reactjs/service-worker.js",
     "static/css/main.26717292.chunk.css.map": "/developerportfolio-reactjs/static/css/main.26717292.chunk.css.map",
     "static/js/2.5447d667.chunk.js.LICENSE.txt": "/developerportfolio-reactjs/static/js/2.5447d667.chunk.js.LICENSE.txt",
     "static/media/ChatAppLive_proj3.jpg": "/developerportfolio-reactjs/static/media/ChatAppLive_proj3.d094aa67.jpg",
+    "static/media/about-screen.jpg": "/developerportfolio-reactjs/static/media/about-screen.1362ded1.jpg",
     "static/media/budget-tracker.jpg": "/developerportfolio-reactjs/static/media/budget-tracker.d929c17b.jpg",
     "static/media/doug.jpg": "/developerportfolio-reactjs/static/media/doug.40bba493.jpg",
     "static/media/doug_erickson_resume.pdf": "/developerportfolio-reactjs/static/media/doug_erickson_resume.41cb3615.pdf",
     "static/media/doug_erickson_resume.docx": "/developerportfolio-reactjs/static/media/doug_erickson_resume.6b15cc21.docx",
     "static/media/kboard_grn_01.jpg": "/developerportfolio-reactjs/static/media/kboard_grn_01.baa48408.jpg",
     "static/media/page1.jpg": "/developerportfolio-reactjs/static/media/page1.b954cb03.jpg",
+    "static/media/projects-screen.jpg": "/developerportfolio-reactjs/static/media/projects-screen.3b749aff.jpg",
     "static/media/react-dev-portfolio.jpg": "/developerportfolio-reactjs/static/media/react-dev-portfolio.d91a88a9.jpg",
+    "static/media/resume-screen.jpg": "/developerportfolio-reactjs/static/media/resume-screen.ebe1c327.jpg",
     "static/media/runbuddy2.jpg": "/developerportfolio-reactjs/static/media/runbuddy2.ef02fcc4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf69e022.js",
+    "static/js/runtime-main.2d7d93e8.js",
     "static/js/2.5447d667.chunk.js",
     "static/css/main.26717292.chunk.css",
-    "static/js/main.0e8b5bbc.chunk.js"
+    "static/js/main.0e235173.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f595720a8f1a8befefe46b2056ab8c68",
+    "revision": "ab8d61f9adcb765b846af1505934a533",
     "url": "/developerportfolio-reactjs/index.html"
   },
   {
-    "revision": "6b60e401c9a17175b619",
+    "revision": "a19a3dceaf44f6cf4b81",
     "url": "/developerportfolio-reactjs/static/css/main.26717292.chunk.css"
   },
   {
@@ -16,20 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerportfolio-reactjs/static/js/2.5447d667.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b9d110cae6c95de25f4",
-    "url": "/developerportfolio-reactjs/static/js/3.816738b9.chunk.js"
+    "revision": "9ff1c385a7d78bdc2d5e",
+    "url": "/developerportfolio-reactjs/static/js/3.192a97a2.chunk.js"
   },
   {
-    "revision": "6b60e401c9a17175b619",
-    "url": "/developerportfolio-reactjs/static/js/main.0e8b5bbc.chunk.js"
+    "revision": "a19a3dceaf44f6cf4b81",
+    "url": "/developerportfolio-reactjs/static/js/main.0e235173.chunk.js"
   },
   {
-    "revision": "ee167a06c3286e0a0ca1",
-    "url": "/developerportfolio-reactjs/static/js/runtime-main.cf69e022.js"
+    "revision": "134bbfedb8ba8258d4b0",
+    "url": "/developerportfolio-reactjs/static/js/runtime-main.2d7d93e8.js"
   },
   {
     "revision": "d094aa677d64d2a85c98b79825558794",
     "url": "/developerportfolio-reactjs/static/media/ChatAppLive_proj3.d094aa67.jpg"
+  },
+  {
+    "revision": "1362ded161072089b485d3e6651ac9c3",
+    "url": "/developerportfolio-reactjs/static/media/about-screen.1362ded1.jpg"
   },
   {
     "revision": "d929c17bbf16d3c9ee8cb6f8c9e387d4",
@@ -56,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerportfolio-reactjs/static/media/page1.b954cb03.jpg"
   },
   {
+    "revision": "3b749affed89d96d26af0edaa70dc2e5",
+    "url": "/developerportfolio-reactjs/static/media/projects-screen.3b749aff.jpg"
+  },
+  {
     "revision": "d91a88a9fe49f99d35ca101bffd3af3b",
     "url": "/developerportfolio-reactjs/static/media/react-dev-portfolio.d91a88a9.jpg"
+  },
+  {
+    "revision": "ebe1c327aa0b5521684c8bdbbea3d2c9",
+    "url": "/developerportfolio-reactjs/static/media/resume-screen.ebe1c327.jpg"
   },
   {
     "revision": "ef02fcc405a854e0a489776d78933049",
