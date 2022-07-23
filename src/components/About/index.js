@@ -13,7 +13,7 @@ function About() {
           national company.
         </p>
         <p>
-          Now, I have entered into the exiting world of full-stack web
+          Now, I have entered into the exciting world of full-stack web
           development. I have learned a great deal about web development in the
           last six months but the only thing I feel I truly know is that I have
           a lot more to learn. Coding has been one of the biggest challenges of
