@@ -46,6 +46,17 @@ const Projects = () => {
 		github: "https://github.com/Crimsondrac1/developerportfolio-reactjs",
 		deployed: "https://crimsondrac1.github.io/developerportfolio-reactjs/",
 	  },
+    {
+      name: "does-not-equal",
+      proj_id: "05",
+      description:
+        "Tchnology forum Q&A site to provide space to discuss coding and technology problems and solutions",
+      image: "dne_01.jpg",
+      technologies:
+        "HTML, CSS, MongoDB, Apollo Server, GraphQL, Express, Node, React, Material UI",
+      github: "https://github.com/Crimsondrac1/console-log",
+      deployed: "https://does-not-equal.herokuapp.com",
+      },
   ];
 
   return (

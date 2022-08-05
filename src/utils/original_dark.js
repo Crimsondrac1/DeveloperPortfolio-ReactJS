@@ -9,7 +9,6 @@ export function toggle_light_mode() {
   let toggle = document.querySelector(".light-mode-button");
   if (localStorage.getItem("goDark")) {
     toggle.innerText = "Light Mode";
-    document.body.classList.add("goDark");
   } else {
     toggle.addEventListener("click", function (e) {
       e.preventDefault();

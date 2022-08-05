@@ -12,7 +12,7 @@ function Footer() {
         <div className="column is-6 has-text-centered">
         <button id="dark" className="light-mode-button button" onClick={toggle_light_mode}>Dark Mode</button>
         </div>
-        <script src="../../utils/dark.js"></script>
+       
     </footer>
     )
 }
