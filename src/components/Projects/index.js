@@ -2,7 +2,6 @@ import React from "react";
 import Project from "../Project";
 
 const Projects = () => {
-
   const projects = [
     {
       name: "Run Buddy",
@@ -35,17 +34,16 @@ const Projects = () => {
       github: "https://github.com/Crimsondrac1/ChatAppLive",
       deployed: "https://livechat-app-1.herokuapp.com/",
     },
-	{
-		name: "React Developer Portfolio",
-		proj_id: "04",
-		description:
-		  "My personal developer's portfolio showing a single-page application using React.",
-		image: "react-dev-portfolio.jpg",
-		technologies:
-		  "HTML, CSS, JavaScript, JQuery, Bulma, ExpressJS and React",
-		github: "https://github.com/Crimsondrac1/developerportfolio-reactjs",
-		deployed: "https://crimsondrac1.github.io/developerportfolio-reactjs/",
-	  },
+    {
+      name: "React Developer Portfolio",
+      proj_id: "04",
+      description:
+        "My personal developer's portfolio showing a single-page application using React.",
+      image: "react-dev-portfolio.jpg",
+      technologies: "HTML, CSS, JavaScript, JQuery, Bulma, ExpressJS and React",
+      github: "https://github.com/Crimsondrac1/developerportfolio-reactjs",
+      deployed: "https://crimsondrac1.github.io/developerportfolio-reactjs/",
+    },
     {
       name: "does-not-equal",
       proj_id: "05",
@@ -56,7 +54,7 @@ const Projects = () => {
         "HTML, CSS, MongoDB, Apollo Server, GraphQL, Express, Node, React, Material UI",
       github: "https://github.com/Crimsondrac1/console-log",
       deployed: "https://does-not-equal.herokuapp.com",
-      },
+    },
   ];
 
   return (
@@ -75,8 +73,11 @@ const Projects = () => {
           <li className="padding">
             <Project projects={projects[2]}></Project>
           </li>
-		  <li className="padding">
+          <li className="padding">
             <Project projects={projects[3]}></Project>
+          </li>
+          <li className="padding">
+            <Project projects={projects[4]}></Project>
           </li>
         </ul>
       </div>
