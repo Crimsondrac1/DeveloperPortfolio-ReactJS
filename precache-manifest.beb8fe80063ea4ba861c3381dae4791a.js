@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab8d61f9adcb765b846af1505934a533",
+    "revision": "f30cc2f62901185f7a3f4a9ccf33efd0",
     "url": "/developerportfolio-reactjs/index.html"
   },
   {
-    "revision": "a19a3dceaf44f6cf4b81",
+    "revision": "87284fd27fa796e56746",
     "url": "/developerportfolio-reactjs/static/css/main.26717292.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerportfolio-reactjs/static/js/2.5447d667.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ff1c385a7d78bdc2d5e",
-    "url": "/developerportfolio-reactjs/static/js/3.192a97a2.chunk.js"
+    "revision": "05384cb32039fdbe31cd",
+    "url": "/developerportfolio-reactjs/static/js/3.b8981bd9.chunk.js"
   },
   {
-    "revision": "a19a3dceaf44f6cf4b81",
-    "url": "/developerportfolio-reactjs/static/js/main.0e235173.chunk.js"
+    "revision": "87284fd27fa796e56746",
+    "url": "/developerportfolio-reactjs/static/js/main.ddf0da6b.chunk.js"
   },
   {
-    "revision": "134bbfedb8ba8258d4b0",
-    "url": "/developerportfolio-reactjs/static/js/runtime-main.2d7d93e8.js"
+    "revision": "14ec21072a539ae81754",
+    "url": "/developerportfolio-reactjs/static/js/runtime-main.67923c3a.js"
   },
   {
     "revision": "d094aa677d64d2a85c98b79825558794",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d929c17bbf16d3c9ee8cb6f8c9e387d4",
     "url": "/developerportfolio-reactjs/static/media/budget-tracker.d929c17b.jpg"
+  },
+  {
+    "revision": "68a728d6df3e6536baf11dcb3e78c93d",
+    "url": "/developerportfolio-reactjs/static/media/dne_01.68a728d6.jpg"
   },
   {
     "revision": "40bba4936c6d8a5f4f09aed4686a2529",
